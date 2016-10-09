@@ -8,7 +8,7 @@ from __future__ import unicode_literals
 AUTHOR = u'JD'
 SITENAME = u'j11e'
 SITEURL = 'https://blog.j11e.net'
-PAGE_PATHS = ['content/pages/index.html', 'content/pages/other.html']
+#PAGE_PATHS = ['content/pages/index.html', 'content/pages/other.html']
 
 THEME = './themes/blueidea'
 
