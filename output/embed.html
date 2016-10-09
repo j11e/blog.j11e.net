@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta http-equiv="refresh" content="86400">
+<script type="text/javascript" >
+/*
+	You can tweak the behaviour of the proxy by giving URL query parameters to
+	this embedding document. If you wish to override the default values even in
+	the absence of those parameters, you may set them below.
+
+	See the main code of the proxy for details on which URL query parameters
+	are available, as well as which defaults you can override.
+*/
+//var DEFAULT_FACILITATOR_URL = "https://fp-facilitator.org/";
+</script>
+<style type="text/css">
+html {
+	width: 100%;
+	height: 100%;
+}
+body {
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	height: 100%;
+}
+#flashproxy-badge {
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	border: 0;
+	border-collapse: collapse;
+	line-height: 0;
+}
+#flashproxy-badge.idle {
+	background-color: #227;
+}
+#flashproxy-badge.active {
+	background-color: #28f;
+}
+#flashproxy-badge.disabled {
+	background-color: #777;
+}
+#flashproxy-badge.dead {
+	background-color: #111;
+}
+#flashproxy-badge td {
+	margin: 0;
+	padding: 0;
+	vertical-align: middle;
+	text-align: center;
+}
+#flashproxy-badge a img {
+	border: 0;
+}
+#flashproxy-badge.debug {
+	position: absolute;
+	margin: 0;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	overflow: auto;
+	color: #4c4;
+	background-color: #021;
+	line-height: inherit;
+}
+</style>
+</head>
+<body>
+<!--  the next four lines activate flashproxy
+<script type="text/javascript" src="flashproxy.js"></script>
+<script type="text/javascript">
+flashproxy_badge_insert().start();
+</script>
+-->
+<noscript>
+<table id="flashproxy-badge" class="disabled"><tr><td><a href="options.html" target="_blank"><img src="badge.png" alt="Internet freedom"></a></td></tr></table>
+</noscript>
+</body>
+</html>
