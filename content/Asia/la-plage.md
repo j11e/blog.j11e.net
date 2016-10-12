@@ -1,7 +1,7 @@
 Title: La plage
 Date: 2015-05-03 05:43
-Author: astridetjd
-Category: Uncategorized
+Author: AB
+Category: Asia
 Slug: la-plage
 Status: published
 

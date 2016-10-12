@@ -1,7 +1,7 @@
 Title: Temple run
 Date: 2015-02-18 14:03
-Author: astridetjd
-Category: Uncategorized
+Author: AB
+Category: Asia
 Slug: temple-run
 Status: published
 

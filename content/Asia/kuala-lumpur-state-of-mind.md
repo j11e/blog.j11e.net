@@ -1,7 +1,7 @@
 Title: Kuala Lumpur state of mind
 Date: 2015-05-06 12:43
-Author: jdinnocenti
-Category: Uncategorized
+Author: JD
+Category: Asia
 Slug: kuala-lumpur-state-of-mind
 Status: published
 

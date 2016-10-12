@@ -1,7 +1,7 @@
 Title: Les 9 plaies de Taman Negara
 Date: 2015-05-18 05:47
-Author: astridetjd
-Category: Uncategorized
+Author: AB
+Category: Asia
 Slug: les-9-plaies-de-taman-negara
 Status: published
 

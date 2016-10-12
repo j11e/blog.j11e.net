@@ -1,7 +1,7 @@
 Title: Goodbye Lenin
 Date: 2015-03-25 11:42
-Author: jdinnocenti
-Category: Uncategorized
+Author: JD
+Category: Asia
 Slug: goodbye-lenin
 Status: published
 

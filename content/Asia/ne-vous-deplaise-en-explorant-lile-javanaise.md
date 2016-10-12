@@ -1,7 +1,7 @@
 Title: Ne vous déplaise, en explorant l'île Javanaise
 Date: 2015-06-24 10:32
-Author: jdinnocenti
-Category: Uncategorized
+Author: JD
+Category: Asia
 Slug: ne-vous-deplaise-en-explorant-lile-javanaise
 Status: published
 

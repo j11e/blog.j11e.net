@@ -1,7 +1,7 @@
 Title: 700 millions de Chinois, et nous, et nous, et nous
 Date: 2015-02-20 14:30
-Author: astridetjd
-Category: Uncategorized
+Author: AB
+Category: Asia
 Slug: 700-millions-de-chinois-et-nous-et-nous-et-nous
 Status: published
 

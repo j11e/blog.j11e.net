@@ -1,7 +1,7 @@
 Title: River deep, mountain high
 Date: 2015-03-04 16:08
-Author: jdinnocenti
-Category: Uncategorized
+Author: JD
+Category: Asia
 Slug: river-deep-mountain-high
 Status: published
 

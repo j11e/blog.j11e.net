@@ -1,7 +1,7 @@
 Title: Je n'ai besoin de personne en scooter Honda
 Date: 2015-04-12 13:16
-Author: jdinnocenti
-Category: Uncategorized
+Author: JD
+Category: Asia
 Slug: je-nai-besoin-de-personne-en-scooter-honda
 Status: published
 

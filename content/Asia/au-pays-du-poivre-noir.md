@@ -1,7 +1,7 @@
 Title: Au pays du poivre noir
 Date: 2015-04-03 13:46
-Author: jdinnocenti
-Category: Uncategorized
+Author: JD
+Category: Asia
 Slug: au-pays-du-poivre-noir
 Status: published
 

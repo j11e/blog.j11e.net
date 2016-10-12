@@ -1,7 +1,7 @@
 Title: Ça s'en Vang et ça re Vieng
 Date: 2015-03-19 12:39
-Author: jdinnocenti
-Category: Uncategorized
+Author: JD
+Category: Asia
 Slug: ca-sen-vang-et-ca-re-vieng
 Status: published
 

@@ -1,7 +1,8 @@
 Title: English, motherfucker, do you speak it?
 Date: 2015-07-16 12:11
-Author: astridetjd
-Category: Uncategorized
+Author: AB
+Category: Asia
+Tag: test
 Slug: english-motherfucker-do-you-speak-it
 Status: published
 
@@ -12,9 +13,9 @@ pérégrinations. Note : aucune photo de cet article ne vient de
 Singapour, où tous les gens rencontrés et tous les panneaux
 s'exprimaient dans un anglais irréprochable.
 
-[![SAM\_3008](https://astridetjdenasie.files.wordpress.com/2015/07/sam_3008.jpg?w=636)](https://astridetjdenasie.files.wordpress.com/2015/07/sam_3008.jpg)
+![SAM\_3008](https://astridetjdenasie.files.wordpress.com/2015/07/sam_3008.jpg?w=636)
 
-<!--more-->
+<!-- PELICAN_END_SUMMARY -->
 
 [![SAM\_3021](https://astridetjdenasie.files.wordpress.com/2015/07/sam_3021.jpg?w=636)](https://astridetjdenasie.files.wordpress.com/2015/07/sam_3021.jpg)
 

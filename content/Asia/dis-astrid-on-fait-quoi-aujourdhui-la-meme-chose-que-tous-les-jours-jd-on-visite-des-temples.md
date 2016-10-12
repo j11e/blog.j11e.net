@@ -1,7 +1,7 @@
 Title: Dis Astrid, on fait quoi aujourd'hui ?
 Date: 2015-02-24 13:10
-Author: jdinnocenti
-Category: Uncategorized
+Author: JD
+Category: Asia
 Slug: dis-astrid-on-fait-quoi-aujourdhui-la-meme-chose-que-tous-les-jours-jd-on-visite-des-temples
 Status: published
 

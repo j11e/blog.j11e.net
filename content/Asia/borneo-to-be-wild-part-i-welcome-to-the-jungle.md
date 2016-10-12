@@ -1,7 +1,7 @@
 Title: Borneo to be wild Part I : Welcome to the jungle
 Date: 2015-06-11 12:21
-Author: astridetjd
-Category: Uncategorized
+Author: AB
+Category: Asia
 Slug: borneo-to-be-wild-part-i-welcome-to-the-jungle
 Status: published
 

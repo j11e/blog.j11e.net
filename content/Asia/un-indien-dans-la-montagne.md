@@ -1,7 +1,7 @@
 Title: Un indien dans la montagne
 Date: 2015-05-12 11:13
-Author: jdinnocenti
-Category: Uncategorized
+Author: JD
+Category: Asia
 Slug: un-indien-dans-la-montagne
 Status: published
 

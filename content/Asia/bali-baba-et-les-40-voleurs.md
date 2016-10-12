@@ -1,7 +1,7 @@
 Title: Bali Baba et les 40 voleurs
 Date: 2015-06-28 12:22
-Author: astridetjd
-Category: Uncategorized
+Author: AB
+Category: Asia
 Slug: bali-baba-et-les-40-voleurs
 Status: published
 

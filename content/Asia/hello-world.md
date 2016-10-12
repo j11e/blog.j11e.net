@@ -1,7 +1,7 @@
 Title: Avant de partir
 Date: 2015-01-29 19:17
-Author: astridetjd
-Category: Uncategorized
+Author: AB
+Category: Asia
 Slug: hello-world
 Status: published
 

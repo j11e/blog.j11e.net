@@ -1,7 +1,7 @@
 Title: Vamos a la playa
 Date: 2015-03-29 07:04
-Author: astridetjd
-Category: Uncategorized
+Author: AB
+Category: Asia
 Slug: vamos-a-la-playa
 Status: published
 

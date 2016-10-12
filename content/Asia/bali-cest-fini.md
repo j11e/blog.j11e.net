@@ -1,7 +1,7 @@
 Title: Bali, c'est fini
 Date: 2015-07-10 09:36
-Author: astridetjd
-Category: Uncategorized
+Author: AB
+Category: Asia
 Slug: bali-cest-fini
 Status: published
 

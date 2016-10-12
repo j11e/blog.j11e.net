@@ -1,7 +1,7 @@
 Title: Un éléphant ça trompe énormément
 Date: 2015-04-10 11:50
-Author: astridetjd
-Category: Uncategorized
+Author: AB
+Category: Asia
 Slug: un-elephant-ca-trompe-enormement
 Status: published
 

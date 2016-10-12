@@ -1,7 +1,7 @@
 Title: Là-haut sur la montagne
 Date: 2015-03-02 12:44
-Author: astridetjd
-Category: Uncategorized
+Author: AB
+Category: Asia
 Slug: la-haut-sur-la-montagne
 Status: published
 

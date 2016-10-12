@@ -1,7 +1,7 @@
 Title: Le talentueux Camarade Kakmak
 Date: 2015-03-22 12:06
-Author: astridetjd
-Category: Uncategorized
+Author: AB
+Category: Asia
 Slug: le-talentueux-camarade-kakmak
 Status: published
 

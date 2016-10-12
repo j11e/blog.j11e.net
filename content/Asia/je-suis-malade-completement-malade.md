@@ -1,7 +1,7 @@
 Title: Je suis malade, complètement malade
 Date: 2015-04-19 11:53
-Author: astridetjd
-Category: Uncategorized
+Author: AB
+Category: Asia
 Slug: je-suis-malade-completement-malade
 Status: published
 

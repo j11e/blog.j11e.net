@@ -1,7 +1,7 @@
 Title: Sur la route
 Date: 2015-02-26 12:38
-Author: astridetjd
-Category: Uncategorized
+Author: AB
+Category: Asia
 Slug: sur-la-route
 Status: published
 

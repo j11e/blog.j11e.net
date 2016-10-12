@@ -1,7 +1,7 @@
 Title: Bees, bees, bees
 Date: 2015-03-07 14:41
-Author: astridetjd
-Category: Uncategorized
+Author: AB
+Category: Asia
 Slug: bees-bees-bees
 Status: published
 

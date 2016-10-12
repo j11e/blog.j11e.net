@@ -1,7 +1,7 @@
 Title: This is it
 Date: 2015-07-16 12:09
-Author: jdinnocenti
-Category: Uncategorized
+Author: JD
+Category: Asia
 Slug: this-is-it
 Status: published
 

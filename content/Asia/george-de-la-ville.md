@@ -1,7 +1,7 @@
 Title: George de la ville
 Date: 2015-05-09 09:52
-Author: astridetjd
-Category: Uncategorized
+Author: AB
+Category: Asia
 Slug: george-de-la-ville
 Status: published
 

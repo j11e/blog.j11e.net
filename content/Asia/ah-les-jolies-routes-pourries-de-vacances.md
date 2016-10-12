@@ -1,7 +1,7 @@
 Title: Ah, les jolies routes pourries de vacances
 Date: 2015-07-04 10:41
-Author: jdinnocenti
-Category: Uncategorized
+Author: JD
+Category: Asia
 Slug: ah-les-jolies-routes-pourries-de-vacances
 Status: published
 

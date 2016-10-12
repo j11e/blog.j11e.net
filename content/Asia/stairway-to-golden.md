@@ -1,7 +1,7 @@
 Title: Stairway to golden
 Date: 2015-02-19 13:49
-Author: jdinnocenti
-Category: Uncategorized
+Author: JD
+Category: Asia
 Slug: stairway-to-golden
 Status: published
 

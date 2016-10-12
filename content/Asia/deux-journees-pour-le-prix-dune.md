@@ -1,7 +1,7 @@
 Title: Le jour le plus long
 Date: 2015-02-17 11:55
-Author: jdinnocenti
-Category: Uncategorized
+Author: JD
+Category: Asia
 Slug: deux-journees-pour-le-prix-dune
 Status: published
 

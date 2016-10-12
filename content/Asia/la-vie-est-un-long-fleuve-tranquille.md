@@ -1,7 +1,7 @@
 Title: La vie est un long fleuve tranquille
 Date: 2015-03-10 16:09
-Author: jdinnocenti
-Category: Uncategorized
+Author: JD
+Category: Asia
 Slug: la-vie-est-un-long-fleuve-tranquille
 Status: published
 

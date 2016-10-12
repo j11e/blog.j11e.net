@@ -1,7 +1,7 @@
 Title: L'Empire contre-attaque
 Date: 2015-02-21 13:21
-Author: jdinnocenti
-Category: Uncategorized
+Author: JD
+Category: Asia
 Slug: lempire-contre-attaque
 Status: published
 

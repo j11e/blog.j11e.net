@@ -1,7 +1,7 @@
 Title: Angkor et encore
 Date: 2015-04-26 09:02
-Author: jdinnocenti
-Category: Uncategorized
+Author: JD
+Category: Asia
 Slug: angkor-et-encore
 Status: published
 

@@ -1,7 +1,7 @@
 Title: Borneo to be wild Part II : It's-a me, Bario
 Date: 2015-06-13 12:59
-Author: jdinnocenti
-Category: Uncategorized
+Author: JD
+Category: Asia
 Slug: borneo-to-be-wild-part-ii-its-a-me-bario
 Status: published
 
@@ -14,13 +14,11 @@ directement dans un tout petit avion, un DHC-6 "Twin Otter" de 19
 sièges, pour Bario. On est 9 à l'intérieur... Bario est officiellement
 un trou perdu !
 
-<!--more-->
-
 En chemin, on atterit au village de Marudi pour récupérer quelques
 passagers et un peu de marchandise - oui, notre avion fait des arrêts
 comme un bus. On apprendra plus tard qu'une route de terre relie Bario à
-Miri, la grande ville la plus proche, mais que le trajet dure 14 heures
-: il n'est donc pas surprenant que les villageois partent faire leurs
+Miri, la grande ville la plus proche, mais que le trajet dure 14 heures...
+il n'est donc pas surprenant que les villageois partent faire leurs
 courses en avion ! Le vol est l'occasion de se rendre compte de l'énorme
 ampleur qu'a prise la culture de l'huile de palme dans la région : les
 palmiers s'étendent à perte de vue. Ça fait mal au coeur de penser à

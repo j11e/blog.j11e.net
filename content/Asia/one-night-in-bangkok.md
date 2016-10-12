@@ -1,7 +1,7 @@
 Title: One night in Bangkok
 Date: 2015-02-22 13:18
-Author: astridetjd
-Category: Uncategorized
+Author: AB
+Category: Asia
 Slug: one-night-in-bangkok
 Status: published
 

@@ -1,7 +1,7 @@
 Title: Celebrity
 Date: 2015-06-20 11:30
-Author: astridetjd
-Category: Uncategorized
+Author: AB
+Category: Asia
 Slug: celebrity
 Status: published
 

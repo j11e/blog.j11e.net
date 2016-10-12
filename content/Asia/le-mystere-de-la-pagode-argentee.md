@@ -1,7 +1,7 @@
 Title: Le mystère de la pagode argentée
 Date: 2015-04-05 13:12
-Author: jdinnocenti
-Category: Uncategorized
+Author: JD
+Category: Asia
 Slug: le-mystere-de-la-pagode-argentee
 Status: published
 

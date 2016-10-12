@@ -1,7 +1,7 @@
 Title: Sucker Island
 Date: 2015-05-25 11:51
-Author: jdinnocenti
-Category: Uncategorized
+Author: JD
+Category: Asia
 Slug: sucker-island
 Status: published
 

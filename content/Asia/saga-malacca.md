@@ -1,7 +1,7 @@
 Title: Saga Malacca
 Date: 2015-05-28 06:20
-Author: astridetjd
-Category: Uncategorized
+Author: AB
+Category: Asia
 Slug: saga-malacca
 Status: published
 
