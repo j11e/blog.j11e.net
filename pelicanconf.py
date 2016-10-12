@@ -2,6 +2,9 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
+import sys
+sys.path.append('.')
+
 ############################
 # GENERAL CONFIG
 ############################
@@ -25,7 +28,13 @@ USE_FOLDER_AS_CATEGORY = True
 ##############################
 # PLUGINS CONFIG  
 ##############################
-PLUGINS = ['plugins.sitemap', 'plugins.gzip_cache', 'plugins.summary', 'plugins.neighbors']
+from plugins import neighbors
+from plugins import summary
+from plugins import clean_summary
+from plugins import sitemap
+from plugins import gzip_cache
+
+PLUGINS = [summary, clean_summary, sitemap, neighbors, gzip_cache]
 
 SITEMAP = {
     'format': 'xml',
@@ -41,7 +50,8 @@ SITEMAP = {
     }
 }
 
-SUMMARY_MAX_LENGTH = 500
+SUMMARY_MAX_LENGTH = 300
+CLEAN_SUMMARY_MAXIMUM = 2
 
 STATIC_PATHS = ['images', 'pages']
 DISPLAY_PAGES_ON_MENU = False
@@ -73,3 +83,4 @@ DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
