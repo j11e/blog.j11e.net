@@ -15,7 +15,7 @@ pas jusqu'à notre destination. Comme nous ne sommes pas du genre à céder
 donc pour un périple de deux jours avec étape à Phitsanulok, petite
 ville située au bord d'une rivière.
 
-<!--more-->
+<!-- PELICAN_END_SUMMARY -->
 
 [caption id="" align="alignnone" width="768" caption="La rivière Nan qui
 borde

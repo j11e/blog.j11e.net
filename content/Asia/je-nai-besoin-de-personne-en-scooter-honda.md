@@ -13,7 +13,7 @@ Status: published
 *Sur cette route déliquescente  
 *
 
-<!--more-->
+<!-- PELICAN_END_SUMMARY -->
 
 Avant de raconter notre court séjour à Kratie (parfois écrit Kratié en
 français), reprenons le récit d'Astrid là où elle l'a abandonné : notre

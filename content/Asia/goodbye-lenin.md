@@ -10,7 +10,7 @@ modérément intéressante Vientiane. Notre départ est prévu pour demain,
 mais ne mettons pas la charrue avant les bœufs : laissez-moi d'abord
 vous raconter comment nous nous sommes occupés ces derniers jours.
 
-<!--more-->
+<!-- PELICAN_END_SUMMARY -->
 
 Le premier jour, nous décidons d'aller visiter le chaudement recommandé
 COPE Center. COPE est l'acronyme de Cooperative Orthotic and Prosthetic

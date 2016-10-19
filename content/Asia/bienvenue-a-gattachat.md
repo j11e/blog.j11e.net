@@ -16,7 +16,7 @@ compagnie. Naturellement, les spécimens vivants sont également légion.
 La ville est coupée en deux par la rivière Sarawak, mais la moitié sud
 est la plus touristique, et on s'y installe donc.
 
-<!--more-->
+<!-- PELICAN_END_SUMMARY -->
 
 Le premier jour sur place est l'occasion de faire le tour de la ville.
 Levés tard, on part écrire le précédent article dans un cybercafé. Puis

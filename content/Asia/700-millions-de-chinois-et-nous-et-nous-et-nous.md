@@ -14,7 +14,7 @@ Wat Phra Kaeo, le temple le plus sacré de Thaïlande, qui accueille le
 Bouddha d'Émeraude. Quelle ne fut pas notre joie en arrivant sur place
 de découvrir que toute cette armée de touristes en avait décidé de même.
 
-<!--more-->
+<!-- PELICAN_END_SUMMARY -->
 
 [caption id="" align="alignnone" width="1024" caption="Avant d'affronter
 les hordes de

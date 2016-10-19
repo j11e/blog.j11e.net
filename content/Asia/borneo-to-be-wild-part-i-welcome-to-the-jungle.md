@@ -15,7 +15,7 @@ Gunung Mulu et Bario. Nos péripéties couvriront deux articles et je m'en
 vais vous raconter notre séjour à Gunung Mulu (Mulu pour les intimes,
 prononcer Moulou) dans cet article.
 
-<!--more-->
+<!-- PELICAN_END_SUMMARY -->
 
 Il s'agit d'un parc national classé au patrimoine mondial de l'UNESCO et
 connu principalement pour ses grottes, parmi les plus grandes du monde.

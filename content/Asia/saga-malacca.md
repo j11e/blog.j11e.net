@@ -11,7 +11,7 @@ traitement antipaludique. Notre séjour sur l’île sera placé sous le
 signe de la randonnée dans la jungle, en espérant ne pas se perdre cette
 fois. En attendant, revenons à notre visite de la ville de Malacca.
 
-<!--more-->
+<!-- PELICAN_END_SUMMARY -->
 
 Sur Pulau Perhentian, nous avons rencontré un californien qui nous
 a juré que Malacca était bien supérieure à Georgetown et qu'il ne

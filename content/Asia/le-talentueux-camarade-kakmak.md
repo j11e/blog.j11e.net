@@ -14,7 +14,7 @@ jour, il est clair que ce n'est pas la ville la plus trépidante que nous
 ayons visitée, et nous devons encore tenir jusqu'au 26, date à laquelle
 nous nous envolons pour notre destination suivante : le Cambodge.
 
-<!--more-->
+<!-- PELICAN_END_SUMMARY -->
 
 Nous sommes partis de Vang Vieng le 20 au matin en minibus, redoutant la
 route qui nous attendait. Finalement, après le trajet éprouvant Luang

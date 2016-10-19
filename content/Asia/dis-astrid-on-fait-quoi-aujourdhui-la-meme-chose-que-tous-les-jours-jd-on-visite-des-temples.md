@@ -19,7 +19,7 @@ original-nal-nal-nal-nal-nal-nal-nal...*
 Bonjour, public adoré ! Pas d'article hier, j'ai décidé de regrouper nos
 deux jours à Ayutthaya en un seul billet.
 
-<!--more-->
+<!-- PELICAN_END_SUMMARY -->
 
 Ayutthaya, notre position actuelle, fut la capitale de la Thaïlande (à
 l'époque appelé Royaume d'Ayutthaya, ou de Siam) de sa fondation en 1350

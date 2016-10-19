@@ -21,7 +21,7 @@ redoutait, Otres a payé le prix de sa bonne réputation : là où les
 touristes vont, les business suivent, et l'état de la plage se détériore
 vite. La plage n'est pas sale comme Koh Rong, loin de là, mais la
 différence avec Serendipity est minime. On y passe néanmoins
-l'après-midi, alternant baignade et lecture.<!--more-->
+l'après-midi, alternant baignade et lecture.<!-- PELICAN_END_SUMMARY -->
 
 [caption id="attachment\_248" align="aligncenter"
 width="636"][![L'enfer, c'est pas

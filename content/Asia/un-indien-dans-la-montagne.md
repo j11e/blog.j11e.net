@@ -11,7 +11,7 @@ les pays que nous avons visité jusqu'ici. Comme pour illustrer mon
 propos, le dieu de la météo a décidé que notre visite des Cameron
 Highlands serait placée sous le signe du déluge.
 
-<!--more-->
+<!-- PELICAN_END_SUMMARY -->
 
 Tout commence il y a deux jours, le lendemain de l'écriture du dernier
 article. La spécialité des Cameron Highlands, c'est la randonnée en

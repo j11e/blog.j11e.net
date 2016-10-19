@@ -13,7 +13,7 @@ hors de la guesthouse on se fait accoster par un local très sympathique.
 Comme on va l'apprendre très rapidement, les gens ici n'entament jamais
 une conversation par hasard mais toujours pour nous faire acheter
 quelque chose.  
-<!--more-->
+<!-- PELICAN_END_SUMMARY -->
 
 Il commence par nous conseiller d'aller visiter deux temples qu'il
 marque sur notre carte. Puis après avoir appris que nous n'avions

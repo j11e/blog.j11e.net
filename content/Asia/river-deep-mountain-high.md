@@ -17,7 +17,7 @@ déposent les touristes en bas d'un grand escalier menant au temple.
 L'escalier lui-même vaut le coup d'oeil : deux nagas, créatures
 mythiques ayant la forme de serpents à 7 têtes, font office de rampes.
 
-<!--more-->
+<!-- PELICAN_END_SUMMARY -->
 
 [caption id="" align="alignnone" width="768" caption="'Sup,
 naga?"][![image](https://astridetjdenasie.files.wordpress.com/2015/03/wpid-sam_3383.jpg?w=768 "Naga Doi Suthep")](https://astridetjdenasie.files.wordpress.com/2015/03/wpid-sam_3383.jpg)

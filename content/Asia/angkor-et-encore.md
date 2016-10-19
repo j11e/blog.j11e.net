@@ -10,7 +10,7 @@ plus tôt, mais Siem Reap était en panne de courant pendant les trois
 derniers jours, ce qui est dérangeant pour les cybercafés. C'est donc de
 Bangkok que je vais raconter nos pérégrinations à Angkor.
 
-<!--more-->
+<!-- PELICAN_END_SUMMARY -->
 
 Revenons donc à dimanche dernier. Nous arrivons à Siem Reap en début
 d'après-midi où nous écrivons le dernier article et... c'est tout pour

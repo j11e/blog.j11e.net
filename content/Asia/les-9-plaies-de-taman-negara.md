@@ -12,7 +12,7 @@ où nous comptons passer les prochains jours à nous reposer et à admirer
 les fonds marins. Besoin de repos ? Oh que oui et vous allez bientôt
 comprendre pourquoi.
 
-<!--more-->
+<!-- PELICAN_END_SUMMARY -->
 
 Le transfert depuis les Cameron Highlands jusqu'au parc national de
 Taman Negara devait en théorie prendre 5 heures : 3 heures de minibus

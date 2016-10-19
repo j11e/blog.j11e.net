@@ -21,7 +21,7 @@ Au moins, on rencontre un couple très sympathique de Français qui
 voyagent en Thaïlande pendant une dizaine de jours, et le trajet d'une
 trentaine de minutes passe en un éclair.
 
-<!--more-->
+<!-- PELICAN_END_SUMMARY -->
 
 [caption id="attachment\_334" align="aligncenter" width="636"][![Ferry
 approchant sur Na

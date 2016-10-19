@@ -11,7 +11,7 @@ nos quartiers à Ayutthaya ! On commencera à visiter sérieusement demain.
 En attendant, je vais refermer la parenthèse Bangkok en vous parlant un
 peu de la vie nocturne. Elle s'organise autour de rues qui ont chacune
 leur ambiance propre, et dont voici un échantillon.  
-<!--more-->
+<!-- PELICAN_END_SUMMARY -->
 
 **Thanon Khao San**
 

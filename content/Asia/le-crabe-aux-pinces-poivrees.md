@@ -11,7 +11,7 @@ pour son marché au crabe. Les deux villes sont à seulement 45 minutes de
 route l'une de l'autre, le trajet devrait donc être une formalité. C'est
 sans compter sur la philosophie d'ici : chaque dollar compte.
 
-<!--more-->Le départ est normalement prévu pour 10h30, le mini-van passe
+<!-- PELICAN_END_SUMMARY -->Le départ est normalement prévu pour 10h30, le mini-van passe
 pour une fois nous prendre en avance, vers 10h20. Mais nous ne sommes
 pas les derniers sur la liste, et il faut encore quelques arrêts pour
 que le véhicule soit quasiment plein. Seulement problème : il reste une

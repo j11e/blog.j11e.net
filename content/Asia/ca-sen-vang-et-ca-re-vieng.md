@@ -19,7 +19,7 @@ d'université américaine. Si on enlève les bars et les restaurants, il
 reste quatre maisons qui se battent en duel, et treize agences
 d'activités touristiques. Pas grand-chose à visiter, donc.
 
-<!--more-->
+<!-- PELICAN_END_SUMMARY -->
 
 Le lendemain de notre visite de la grotte de Phou Kham, on (lire :
 Astrid) est sur les rotules. Notre guesthouse est autant à blâmer que

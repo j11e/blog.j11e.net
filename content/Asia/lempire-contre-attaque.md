@@ -18,7 +18,7 @@ secondaires se trouvant sur le même site, Astrid et moi nous attendions
 bateau express sur le fleuve - une fois de plus, prendre le bateau est
 toujours agréable.
 
-<!--more-->
+<!-- PELICAN_END_SUMMARY -->
 
 [caption id="" align="alignnone" width="1024" caption="Notre bateau sur
 le fleuve Chao

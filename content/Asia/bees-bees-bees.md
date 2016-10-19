@@ -12,7 +12,7 @@ Status: published
 Nous voici de retour après notre trek de 3 jours dans les montagnes qui
 entourent Chiang Mai. Mais revenons au début...
 
-<!--more-->
+<!-- PELICAN_END_SUMMARY -->
 
 **Premier jour**
 

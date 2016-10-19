@@ -20,7 +20,7 @@ plage et d'écumer les magasins de livres d'occasion à la recherche de
 lecture de plage. Cet article sera le reflet de ces activités hautement
 passionnantes.
 
-<!--more-->
+<!-- PELICAN_END_SUMMARY -->
 
 Pour reprendre là où JD vous avait laissés, à savoir sur l’île
 relativement sauvage de Nusa Lembongan, nous voici au petit matin en

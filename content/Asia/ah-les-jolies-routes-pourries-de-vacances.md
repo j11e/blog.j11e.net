@@ -13,7 +13,7 @@ pour attendre qu'un bemo public passe. Après une vingtaine de minutes
 d'attente, on en voit un arriver, on lui fait signe... et il passe sans
 même freiner. D'accord.
 
-<!--more-->
+<!-- PELICAN_END_SUMMARY -->
 
 Notre théorie est qu'on attendait au mauvais endroit, vu qu'il n'était
 pas plein ; on décide donc d'aller attendre un peu plus loin, là où le

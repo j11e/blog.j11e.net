@@ -11,7 +11,7 @@ qu'Astrid ferait tout sur ce blog !
 
 Première journée du voyage, donc, et quelle journée.
 
-<!--more-->
+<!-- PELICAN_END_SUMMARY -->
 
 À 7h,  on grimpe dans le RER direction l'aéroport. À partir de là
 s'ensuivent 1h de RER, 2h d'attente, 3h30 de vol jusqu'à Helsinki, 2h

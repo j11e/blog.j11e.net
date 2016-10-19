@@ -22,7 +22,7 @@ d'Angkor Wat, qu'il est inutile de présenter. On attaque la visite des
 temples demain et après quatre jours sur place nous repartons à Phnom
 Penh pour nous envoler vers Bangkok.
 
-<!--more-->
+<!-- PELICAN_END_SUMMARY -->
 
 Mais revenons une semaine en arrière à notre visite de Kampong Cham.
 Nous rejoignons la ville depuis Kratie en minibus, serrés à 4 sur une

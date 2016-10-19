@@ -22,7 +22,7 @@ franchement magnifique ; il a été construit vers 1920, spécifiquement
 pour abriter le musée, en s'inspirant de l'architecture traditionnelle
 khmer.
 
-<!--more-->
+<!-- PELICAN_END_SUMMARY -->
 
 [caption id="attachment\_264" align="aligncenter" width="636"][![Le
 magnifique bâtiment du National

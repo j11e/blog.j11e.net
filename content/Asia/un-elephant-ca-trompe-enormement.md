@@ -14,7 +14,7 @@ l'ampleur des dégâts sur la route depuis Phnom Penh en voyant défiler
 des kilomètres de plantation d'hévéas, là où se trouvait auparavant une
 forêt verdoyante.
 
-<!--more-->
+<!-- PELICAN_END_SUMMARY -->
 
 Pour une fois notre mini-van part à l'heure et correctement chargé - un
 adulte par siège, les enfants voyagent sur les genoux. Décrivons un

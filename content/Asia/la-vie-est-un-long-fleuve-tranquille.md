@@ -20,7 +20,7 @@ direction pour le pont, donc pas le choix, on en a pris un -
 naturellement, pas question non plus de négocier le prix, ce qui est
 habituellement la norme.
 
-<!--more-->
+<!-- PELICAN_END_SUMMARY -->
 
 Arrivés au pont, la traversée se fait en trois temps : contrôle
 frontalier thaï, traversée du pont en bus payant et obligatoire, puis

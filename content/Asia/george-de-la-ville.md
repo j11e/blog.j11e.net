@@ -25,7 +25,7 @@ nous avons donc écumé les guesthouses de la ville avant de nous décider
 pour un petit hôtel qui était le seul à proposer des chambres de plus de
 3m2.
 
-<!--more-->
+<!-- PELICAN_END_SUMMARY -->
 
 Pour notre première journée sur place, nous décidons d'arpenter le
 centre historique, inscrit au patrimoine mondial de l'UNESCO. Pour la

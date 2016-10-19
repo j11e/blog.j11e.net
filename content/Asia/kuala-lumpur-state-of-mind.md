@@ -12,7 +12,7 @@ anicroche, on trouve une guesthouse sans problème. Comme il est déjà
 tard, la soirée est tranquille, on se balade dans le quartier indien et
 on mange dans une sorte de grand stand de rue.
 
-<!--more-->
+<!-- PELICAN_END_SUMMARY -->
 
 Le deuxième jour, on commence l'exploration. Le premier item de notre
 liste est le Masjid Negara, ou Mosquée Nationale, un bâtiment moderne et

@@ -15,7 +15,7 @@ directement de Luang Prabang à Vang Vieng sans passer par la case
 Phonsavan - les deux jours de bus nécessaires pour y aller et en revenir
 nous ont semblé trop chers payés pour une journée à la Plaine des
 Jarres. La route jusqu'à Vang Vieng m'a confortée dans cette
-décision. <!--more-->Pour rejoindre la ville depuis Luang Prabang, deux
+décision. <!-- PELICAN_END_SUMMARY -->Pour rejoindre la ville depuis Luang Prabang, deux
 options s'offrent à nous : un bus qui prend environ 8 heures et une
 multitude de minibus qui font le trajet en à peu près 6 heures. De
 nombreuses agences en centre-ville proposent des billets de minibus,

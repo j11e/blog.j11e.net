@@ -14,7 +14,7 @@ d'embarquement et une quinzaine de vols par jour. Notre vol part à
 l'heure, ce qui nous change des transports locaux o<span
 class="st">ù</span> les horaires sont pour le moins souples.
 
-<!--more-->
+<!-- PELICAN_END_SUMMARY -->
 
 Notre guide mentionne que le personnel frontalier cambodgien est
 notablement déplaisant et corrompu, ce qui ne nous rassure pas. Arrivés

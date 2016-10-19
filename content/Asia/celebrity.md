@@ -12,7 +12,7 @@ des volcans de Java. Mais les détails sont pour le prochain article,
 puisque je vais d'abord vous raconter notre séjour à Yogyakarta, ou
 Yogya pour les intimes (prononcez Jogja).
 
-<!--more-->
+<!-- PELICAN_END_SUMMARY -->
 
 Jakarta étant communément regardée comme une ville de peu d’intérêt,
 nous avons choisi de commencer notre visite au centre de l’île de Java

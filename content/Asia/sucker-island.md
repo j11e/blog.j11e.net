@@ -11,7 +11,7 @@ quelques jours sur l'île semi-paradisiaque de Pulau Perhentian Kecil
 n'arrivant que maintenant parce que les cybercafés y sont rares. Mais
 commençons par le commencement...
 
-<!--more-->
+<!-- PELICAN_END_SUMMARY -->
 
 Le 17, on évacue Taman Negara à 15h, en bus. Le prix du transfert vers
 les Perhentian en minibus "tout compris" organisé par une guesthouse

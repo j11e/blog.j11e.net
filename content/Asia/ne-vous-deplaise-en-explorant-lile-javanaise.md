@@ -13,7 +13,7 @@ Le temps de 197 chansons\*...*
 \* De la fin d'après-midi au lever du soleil, à 3 minutes 30 par
 chanson.
 
-<!--more-->
+<!-- PELICAN_END_SUMMARY -->
 
 Le 18, Astrid et moi quittons Yogya, direction le mont Bromo. Première
 étape : un train de 8h30 pour Probolinggo, la grande ville la plus

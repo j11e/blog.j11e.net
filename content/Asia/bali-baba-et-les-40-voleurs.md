@@ -12,7 +12,7 @@ imaginent déjà nous prélassant sur des plages de sable blanc pendant 3
 semaines. Rassurez-vous, d'autres découvertes plus palpitantes sont au
 programme - même si on compte bien se dorer un peu la pilule !
 
-<!--more-->
+<!-- PELICAN_END_SUMMARY -->
 
 Après un trajet en ferry d'environ une heure, nous arrivons à Gilimanuk,
 la pointe ouest de l’île. On décide de se rendre à Pemuteran, un petit

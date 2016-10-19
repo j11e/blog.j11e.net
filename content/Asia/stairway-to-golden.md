@@ -13,7 +13,7 @@ visite guidée est gratuite le matin, mais un réveil taquin en a décidé
 autrement. À la place, on a pris un bateau sur le canal, direction le
 centre ville et ses centres commerciaux géants.
 
-<!--more-->
+<!-- PELICAN_END_SUMMARY -->
 
 [caption id="" align="alignnone" width="1024" caption="Un aperçu du
 centre ville de

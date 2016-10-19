@@ -14,7 +14,7 @@ on n'a pas été déçus. La première heure de trajet se passe très bien, le
 bus est climatisé et confortable et on parvient même à dormir un peu.
 Arrivés à la première grosse ville sur notre trajet, ça se gâte.
 
-<!--more-->
+<!-- PELICAN_END_SUMMARY -->
 
 D'abord on s'arrête environ 30 fois en l'espace de 45 minutes pour
 déposer ou récupérer des passagers. Il semblerait que le bus longue

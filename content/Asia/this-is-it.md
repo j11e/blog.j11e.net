@@ -30,7 +30,7 @@ Suite à ça, tous au lit dans notre dortoir, il est déjà minuit passé !
 
 </div>
 
-<!--more-->
+<!-- PELICAN_END_SUMMARY -->
 
 <div>
 
