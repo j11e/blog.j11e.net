@@ -15,7 +15,7 @@ SITEURL = 'https://blog.j11e.net'
 
 THEME = './themes/blueidea'
 
-PATH = 'content'
+PATH = './content'
 
 TIMEZONE = 'Europe/Paris'
 

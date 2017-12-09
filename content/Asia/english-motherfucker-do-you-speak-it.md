@@ -2,7 +2,7 @@ Title: English, motherfucker, do you speak it?
 Date: 2015-07-16 12:11
 Author: AB
 Category: Asia
-Tag: test
+Tags: test
 Slug: english-motherfucker-do-you-speak-it
 Status: published
 
